@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman-ati&label=Profile%20views&color=0e75b6&style=flat" alt="arman-ati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-ati" alt="arman-ati" /></a> </p>
-
 - 🔭 I’m currently working on **android and build projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arman-ATI/](https://github.com/Arman-ATI/)
