@@ -1,7 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Arman ATI
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi, I'm Arman
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arman-ATI&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Arman-ATI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <h3 align="center">Yet another person who likes to do janky stuff.</h3>
@@ -49,8 +52,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,photoshop" />
 </p>
-
----
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="24"> GitHub Statistics
 
